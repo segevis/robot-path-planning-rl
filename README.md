@@ -65,9 +65,6 @@ python src/dqn.py
 
 ![Reward Curve](assets/תמונה3.png)
 
-
-*(You can add screenshots/plots in the `assets/` folder and display them here)*
-
 ---
 
 ## 💡 What I Learned
@@ -80,4 +77,5 @@ python src/dqn.py
 
 ## 👤 Author
 Developed by **Segev** as part of an academic Artificial Intelligence project.
+
 
